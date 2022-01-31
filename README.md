@@ -1,10 +1,11 @@
 # Финальный проект
 по предмету Сетевые и интернет технологии. Представляет из себя сборку всех дз.
+http://161.35.75.28/
 
 # Установка
 1. Установить Node.js, npm https://nodejs.org/en/
 2. Открыть командную строку в директории куда будет установлен проект
-3. Выполнить: git clone https://github.com/Rebarial/FinalProject__
+3. Выполнить: git clone https://github.com/Rebarial/FinalProject_
 4. Перейти в установленную директорию
 5. Установить зависимости из package.json: npm install
 6. Собрать проект: npm run build.
