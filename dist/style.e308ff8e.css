@@ -1,0 +1,67 @@
+body {
+    background-image: url("/back_main.bdbad0ee.jpg");
+    background-size: cover;
+    background-attachment: fixed
+
+}
+.left-drop-menu {
+    height: 100%;
+    width: 90px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 5px;
+    background-color: blue;
+    overflow-x: hidden;
+    padding-top: 20px;
+    opacity: 50%;
+    display: none;
+}
+.left-drop {
+    height: 100%;
+    width: 5px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: blue;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.left-drop:hover .left-drop-menu{
+    display:block;
+}
+.left-drop-menu button{
+    background-color: inherit;
+    color: aqua;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    opacity: 100%;
+    margin: 5px;
+    padding: 5px;
+    top: 150px;
+}
+.left-drop-menu button:active{
+    color: blueviolet;
+}
+body{
+    text-align: center;
+    background-color: gray;
+}
+.main{
+    opacity: 80%;
+    font-size: 30pt;
+    background-color: darkgray;
+    height: 100%;
+    display: none;
+}
+.main .messages{
+    background-color: beige;
+
+}
+.messages{
+}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */

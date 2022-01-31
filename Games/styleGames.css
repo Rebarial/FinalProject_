@@ -1,0 +1,42 @@
+body {
+    background-image: url("img/back.jpg");
+    background-size: cover;
+    background-attachment: fixed
+
+}
+.board {
+    font-size: 30pt;
+    color: white;
+    background-color: mediumpurple;
+    padding: 30px;
+    margin: 30px;
+    border: 5px solid black;
+    opacity: 80%;
+    position: relative;
+    word-wrap: anywhere;
+    display: block;
+
+}
+.gc{
+    margin: auto;
+    position: relative;
+    text-align: center;
+}
+.onLine{
+    color: aliceblue;
+}
+
+.molehole{
+    background-color: gray;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display:inline-block;
+}
+.blockPilot{
+    background-color: gray;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display:inline-block;
+}

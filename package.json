@@ -1,0 +1,26 @@
+{
+  "name": "finalproject",
+  "version": "1.0.0",
+  "description": "finalproject",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "author": "SY",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "axios": "^0.25.0"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rebarial/FinalProject_.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rebarial/FinalProject_/issues"
+  },
+  "homepage": "https://github.com/Rebarial/FinalProject_#readme"
+}

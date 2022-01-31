@@ -1,0 +1,98 @@
+
+body {
+    background-image: url("/Задник.ed76e90c.jpg");
+    background-size: cover;
+    background-attachment: fixed
+
+}
+h1{
+    color: white;
+    text-align: center;
+}
+
+.message {
+    font-size: 30pt;
+    color: white;
+    font-max-size: 1500px;
+    background-color: burlywood;
+    height: 3000px;
+    padding: 30px;
+    margin: 30px;
+    border: 5px solid black;
+    opacity: 90%;
+    position: relative;
+    word-wrap: anywhere;
+    display: block;
+
+}
+a{
+    color: white;
+    left: 0;
+    text-decoration: none;
+}
+
+img.icon{
+    height: 50px;
+    width: 50px;
+    position: relative;
+}
+
+.gif{
+    position: absolute;
+    display: revert;
+    height: 100px;
+    width: 100px;
+    background:url("/popa.17fe3201.gif");
+    left: 100%; bottom: 0;
+    margin-left: -100px;
+}
+
+img.avatar {
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    float: left;
+    margin: 0 1em 1em 0;
+
+
+}
+frame{
+    size: auto;
+}
+
+.dropdown{
+    position: relative;
+    display: inline-block;
+    background-color: aqua;
+    border: 2px solid darkblue;
+    padding: 1px 2px;
+
+}
+
+.dropdown-content{
+    display: none;
+    position: absolute;
+
+
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    font-size: 20pt;
+
+}
+p.droptext {
+    background-color: goldenrod;
+    padding: 2px;
+    margin: 0px;
+    border: 4px double black;
+    padding: 2px;
+
+}
+sub{
+    left: 100%; bottom: 0;
+    position: absolute;
+}
+
+
+/*# sourceMappingURL=/style.9388a93e.css.map */

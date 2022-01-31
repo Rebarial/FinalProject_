@@ -1,0 +1,28 @@
+body {
+    background-image: url("/back.e9a274fd.jpg");
+    background-size: cover;
+    background-attachment: fixed
+
+}
+.board {
+    font-size: 30pt;
+    color: white;
+    background-color: sandybrown;
+    padding: 30px;
+    margin: 30px;
+    border: 5px solid black;
+    opacity: 90%;
+    position: relative;
+    word-wrap: anywhere;
+    display: block;
+    text-align: center;
+}
+.arts {
+    display: flex;
+    right: 0;
+    left: 0;
+    margin: 10px auto;
+    border: 5px solid white;
+}
+
+/*# sourceMappingURL=/styleArts.124f00e4.css.map */
